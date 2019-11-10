@@ -14,3 +14,5 @@ my_each(['arel', 'jon', 'logan', 'spencer']) do |names|
 if names(0..-1).to_a
 
 end
+end
+
