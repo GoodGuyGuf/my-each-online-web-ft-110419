@@ -11,7 +11,7 @@ def my_each(array) # put argument(s) here
 end
 
 my_each(['arel', 'jon', 'logan', 'spencer']) do |tas|
-if names(0..-1).to_a
+if tas(0..-1).to_a
 
 end
 end
