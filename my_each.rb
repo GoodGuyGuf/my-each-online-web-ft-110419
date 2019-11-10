@@ -15,4 +15,3 @@ if names(0..-1).to_a
 
 end
 end
-
