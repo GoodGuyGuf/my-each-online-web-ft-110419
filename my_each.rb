@@ -11,6 +11,6 @@ def my_each(array) # put argument(s) here
 end
 
 my_each(['arel', 'jon', 'logan', 'spencer']) do |names|
-
+if names(0..-1)
 
 end
